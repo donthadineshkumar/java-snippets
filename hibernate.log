@@ -1,0 +1,243 @@
+20:58:34,030 FATAL LogMe:11 - fatal message- 6
+20:58:34,033 ERROR LogMe:12 - error message -5
+20:58:34,033  WARN LogMe:13 - warn message -4
+20:58:34,033  INFO LogMe:14 - info message - 3
+20:58:34,034 DEBUG LogMe:15 - debug message - 2
+20:58:34,034 TRACE LogMe:16 - trace message -1
+20:59:33,810 FATAL LogMe:11 - fatal message- 6
+20:59:33,812 ERROR LogMe:12 - error message -5
+20:59:33,812  WARN LogMe:13 - warn message -4
+20:59:33,812  INFO LogMe:14 - info message - 3
+20:59:33,813 DEBUG LogMe:15 - debug message - 2
+20:59:33,813 TRACE LogMe:16 - trace message -1
+21:00:10,592 FATAL LogMe:11 - fatal message- 6
+21:00:10,595 ERROR LogMe:12 - error message -5
+21:00:10,595  WARN LogMe:13 - warn message -4
+21:00:10,595  INFO LogMe:14 - info message - 3
+21:00:10,595 DEBUG LogMe:15 - debug message - 2
+21:04:52,837 FATAL LogMe:11 - fatal message- 6
+21:04:52,840 ERROR LogMe:12 - error message -5
+21:04:52,840  WARN LogMe:13 - warn message -4
+21:04:52,840  INFO LogMe:14 - info message - 3
+21:04:52,840 DEBUG LogMe:15 - debug message - 2
+21:05:03,298 FATAL LogMe:11 - fatal message- 6
+21:05:03,300 ERROR LogMe:12 - error message -5
+21:05:03,300  WARN LogMe:13 - warn message -4
+21:05:03,300  INFO LogMe:14 - info message - 3
+21:05:03,301 DEBUG LogMe:15 - debug message - 2
+21:05:08,266 FATAL LogMe:11 - fatal message- 6
+21:05:08,270 ERROR LogMe:12 - error message -5
+21:05:08,270  WARN LogMe:13 - warn message -4
+21:05:08,270  INFO LogMe:14 - info message - 3
+21:05:08,271 DEBUG LogMe:15 - debug message - 2
+21:05:13,385 FATAL LogMe:11 - fatal message- 6
+21:05:13,390 ERROR LogMe:12 - error message -5
+21:05:13,391  WARN LogMe:13 - warn message -4
+21:05:13,391  INFO LogMe:14 - info message - 3
+21:05:13,391 DEBUG LogMe:15 - debug message - 2
+21:05:43,433 FATAL LogMe:11 - fatal message- 6
+21:05:43,437 ERROR LogMe:12 - error message -5
+21:05:43,437  WARN LogMe:13 - warn message -4
+21:05:43,437  INFO LogMe:14 - info message - 3
+21:05:43,437 DEBUG LogMe:15 - debug message - 2
+21:05:53,557 FATAL LogMe:11 - fatal message- 6
+21:05:53,563 ERROR LogMe:12 - error message -5
+21:05:53,563  WARN LogMe:13 - warn message -4
+21:05:53,563  INFO LogMe:14 - info message - 3
+21:05:53,563 DEBUG LogMe:15 - debug message - 2
+21:08:35,120 FATAL LogMe:11 - fatal message- 6
+21:08:35,123 ERROR LogMe:12 - error message -5
+21:08:35,123  WARN LogMe:13 - warn message -4
+21:08:35,123  INFO LogMe:14 - info message - 3
+21:08:35,124 DEBUG LogMe:15 - debug message - 2
+21:08:53,476 FATAL LogMe:11 - fatal message- 6
+21:08:53,478 ERROR LogMe:12 - error message -5
+21:08:53,478  WARN LogMe:13 - warn message -4
+21:08:53,479  INFO LogMe:14 - info message - 3
+21:08:53,479 DEBUG LogMe:15 - debug message - 2
+21:11:02,075 FATAL LogMe:11 - fatal message- 6
+21:11:02,079 ERROR LogMe:12 - error message -5
+21:11:02,079  WARN LogMe:13 - warn message -4
+21:11:02,079  INFO LogMe:14 - info message - 3
+21:11:02,079 DEBUG LogMe:15 - debug message - 2
+21:11:14,030 FATAL LogMe:11 - fatal message- 6
+21:11:14,037 ERROR LogMe:12 - error message -5
+21:11:14,037  WARN LogMe:13 - warn message -4
+21:11:14,037  INFO LogMe:14 - info message - 3
+21:11:14,037 DEBUG LogMe:15 - debug message - 2
+21:11:29,021 FATAL LogMe:11 - fatal message- 6
+21:11:29,024 ERROR LogMe:12 - error message -5
+21:11:29,024  WARN LogMe:13 - warn message -4
+21:11:29,025  INFO LogMe:14 - info message - 3
+21:11:29,025 DEBUG LogMe:15 - debug message - 2
+21:12:37,274 FATAL LogMe:11 - fatal message- 6
+21:12:37,277 ERROR LogMe:12 - error message -5
+21:12:37,278  WARN LogMe:13 - warn message -4
+21:12:37,278  INFO LogMe:14 - info message - 3
+21:12:37,278 DEBUG LogMe:15 - debug message - 2
+21:13:18,831 FATAL LogMe:11 - fatal message- 6
+21:13:18,835 ERROR LogMe:12 - error message -5
+21:13:18,835  WARN LogMe:13 - warn message -4
+21:13:18,835  INFO LogMe:14 - info message - 3
+21:13:18,836 DEBUG LogMe:15 - debug message - 2
+21:14:34,856 FATAL LogMe:11 - fatal message- 6
+21:14:34,859 ERROR LogMe:12 - error message -5
+21:14:34,859  WARN LogMe:13 - warn message -4
+21:14:34,860  INFO LogMe:14 - info message - 3
+21:14:34,860 DEBUG LogMe:15 - debug message - 2
+21:14:45,608 FATAL LogMe:11 - fatal message- 6
+21:14:45,619 ERROR LogMe:12 - error message -5
+21:14:45,619  WARN LogMe:13 - warn message -4
+21:14:45,619  INFO LogMe:14 - info message - 3
+21:14:45,620 DEBUG LogMe:15 - debug message - 2
+21:14:51,586 FATAL LogMe:11 - fatal message- 6
+21:14:51,590 ERROR LogMe:12 - error message -5
+21:14:51,590  WARN LogMe:13 - warn message -4
+21:14:51,590  INFO LogMe:14 - info message - 3
+21:14:51,590 DEBUG LogMe:15 - debug message - 2
+21:15:33,130 FATAL LogMe:11 - fatal message- 6
+21:15:33,132 ERROR LogMe:12 - error message -5
+21:15:33,132  WARN LogMe:13 - warn message -4
+21:15:33,133  INFO LogMe:14 - info message - 3
+21:15:33,133 DEBUG LogMe:15 - debug message - 2
+21:16:34,232 FATAL LogMe:11 - fatal message- 6
+21:16:34,236 ERROR LogMe:12 - error message -5
+21:16:34,236  WARN LogMe:13 - warn message -4
+21:16:34,236  INFO LogMe:14 - info message - 3
+21:16:34,236 DEBUG LogMe:15 - debug message - 2
+21:16:40,456 FATAL LogMe:11 - fatal message- 6
+21:16:40,459 ERROR LogMe:12 - error message -5
+21:16:40,459  WARN LogMe:13 - warn message -4
+21:16:40,459  INFO LogMe:14 - info message - 3
+21:16:40,459 DEBUG LogMe:15 - debug message - 2
+21:17:12,336 FATAL LogMe:11 - fatal message- 6
+21:17:12,339 ERROR LogMe:12 - error message -5
+21:17:12,339  WARN LogMe:13 - warn message -4
+21:17:12,340  INFO LogMe:14 - info message - 3
+21:17:12,340 DEBUG LogMe:15 - debug message - 2
+21:17:36,688 FATAL LogMe:11 - fatal message- 6
+21:17:36,691 ERROR LogMe:12 - error message -5
+21:17:36,692  WARN LogMe:13 - warn message -4
+21:17:36,692  INFO LogMe:14 - info message - 3
+21:17:36,692 DEBUG LogMe:15 - debug message - 2
+21:18:13,147 FATAL LogMe:11 - fatal message- 6
+21:18:13,149 ERROR LogMe:12 - error message -5
+21:18:13,150  WARN LogMe:13 - warn message -4
+21:18:13,150  INFO LogMe:14 - info message - 3
+21:18:13,150 DEBUG LogMe:15 - debug message - 2
+21:20:07,691 FATAL LogMe:11 - fatal message- 6
+21:20:07,694 ERROR LogMe:12 - error message -5
+21:20:07,694  WARN LogMe:13 - warn message -4
+21:20:07,695  INFO LogMe:14 - info message - 3
+21:20:07,695 DEBUG LogMe:15 - debug message - 2
+21:20:11,904 FATAL LogMe:11 - fatal message- 6
+21:20:11,908 ERROR LogMe:12 - error message -5
+21:20:11,908  WARN LogMe:13 - warn message -4
+21:20:11,908  INFO LogMe:14 - info message - 3
+21:20:11,908 DEBUG LogMe:15 - debug message - 2
+21:21:23,384 FATAL LogMe:11 - fatal message- 6
+21:21:23,386 ERROR LogMe:12 - error message -5
+21:21:23,387  WARN LogMe:13 - warn message -4
+21:21:23,387  INFO LogMe:14 - info message - 3
+21:21:23,387 DEBUG LogMe:15 - debug message - 2
+21:21:40,325 FATAL LogMe:11 - fatal message- 6
+21:21:40,328 ERROR LogMe:12 - error message -5
+21:21:40,329  WARN LogMe:13 - warn message -4
+21:21:40,329  INFO LogMe:14 - info message - 3
+21:21:40,329 DEBUG LogMe:15 - debug message - 2
+21:21:50,602 FATAL LogMe:11 - fatal message- 6
+21:21:50,604 ERROR LogMe:12 - error message -5
+21:21:50,604  WARN LogMe:13 - warn message -4
+21:21:50,605  INFO LogMe:14 - info message - 3
+21:21:50,605 DEBUG LogMe:15 - debug message - 2
+21:22:02,795 FATAL LogMe:11 - fatal message- 6
+21:22:02,799 ERROR LogMe:12 - error message -5
+21:22:02,799  WARN LogMe:13 - warn message -4
+21:22:02,800  INFO LogMe:14 - info message - 3
+21:22:02,800 DEBUG LogMe:15 - debug message - 2
+21:22:42,286 FATAL LogMe:11 - fatal message- 6
+21:22:42,290 ERROR LogMe:12 - error message -5
+21:22:42,290  WARN LogMe:13 - warn message -4
+21:22:42,291  INFO LogMe:14 - info message - 3
+21:22:42,291 DEBUG LogMe:15 - debug message - 2
+21:23:13,128 FATAL LogMe:11 - fatal message- 6
+21:23:13,133 ERROR LogMe:12 - error message -5
+21:23:13,133  WARN LogMe:13 - warn message -4
+21:23:13,134  INFO LogMe:14 - info message - 3
+21:23:13,134 DEBUG LogMe:15 - debug message - 2
+21:23:25,831 FATAL LogMe:11 - fatal message- 6
+21:23:25,842 ERROR LogMe:12 - error message -5
+21:23:25,843  WARN LogMe:13 - warn message -4
+21:23:25,844  INFO LogMe:14 - info message - 3
+21:23:25,844 DEBUG LogMe:15 - debug message - 2
+21:25:06,503 FATAL LogMe:11 - fatal message- 6
+21:25:06,506 ERROR LogMe:12 - error message -5
+21:25:06,506  WARN LogMe:13 - warn message -4
+21:25:06,506  INFO LogMe:14 - info message - 3
+21:25:06,506 DEBUG LogMe:15 - debug message - 2
+21:26:06,775 FATAL LogMe:11 - fatal message- 6
+21:26:06,778 ERROR LogMe:12 - error message -5
+21:26:06,778  WARN LogMe:13 - warn message -4
+21:26:06,779  INFO LogMe:14 - info message - 3
+21:26:06,779 DEBUG LogMe:15 - debug message - 2
+21:26:17,632 FATAL LogMe:11 - fatal message- 6
+21:26:17,635 ERROR LogMe:12 - error message -5
+21:26:17,635  WARN LogMe:13 - warn message -4
+21:26:17,635  INFO LogMe:14 - info message - 3
+21:26:17,635 DEBUG LogMe:15 - debug message - 2
+21:26:32,274 FATAL LogMe:11 - fatal message- 6
+21:26:32,278 ERROR LogMe:12 - error message -5
+21:26:32,279  WARN LogMe:13 - warn message -4
+21:26:32,279  INFO LogMe:14 - info message - 3
+21:26:32,279 DEBUG LogMe:15 - debug message - 2
+21:26:38,870 FATAL LogMe:11 - fatal message- 6
+21:26:38,872 ERROR LogMe:12 - error message -5
+21:26:38,872  WARN LogMe:13 - warn message -4
+21:26:38,872  INFO LogMe:14 - info message - 3
+21:26:38,872 DEBUG LogMe:15 - debug message - 2
+21:26:48,343 FATAL LogMe:11 - fatal message- 6
+21:26:48,345 ERROR LogMe:12 - error message -5
+21:26:48,345  WARN LogMe:13 - warn message -4
+21:26:48,346  INFO LogMe:14 - info message - 3
+21:26:48,346 DEBUG LogMe:15 - debug message - 2
+21:26:52,957 FATAL LogMe:11 - fatal message- 6
+21:26:52,960 ERROR LogMe:12 - error message -5
+21:26:52,960  WARN LogMe:13 - warn message -4
+21:26:52,960  INFO LogMe:14 - info message - 3
+21:26:52,960 DEBUG LogMe:15 - debug message - 2
+21:27:12,762 FATAL LogMe:11 - fatal message- 6
+21:27:12,765 ERROR LogMe:12 - error message -5
+21:27:12,765  WARN LogMe:13 - warn message -4
+21:27:12,765  INFO LogMe:14 - info message - 3
+21:27:12,765 DEBUG LogMe:15 - debug message - 2
+21:27:18,302 FATAL LogMe:11 - fatal message- 6
+21:27:18,305 ERROR LogMe:12 - error message -5
+21:27:18,305  WARN LogMe:13 - warn message -4
+21:27:18,305  INFO LogMe:14 - info message - 3
+21:27:18,305 DEBUG LogMe:15 - debug message - 2
+21:27:24,199 FATAL LogMe:11 - fatal message- 6
+21:27:24,203 ERROR LogMe:12 - error message -5
+21:27:24,203  WARN LogMe:13 - warn message -4
+21:27:24,203  INFO LogMe:14 - info message - 3
+21:27:24,204 DEBUG LogMe:15 - debug message - 2
+21:27:48,930 FATAL LogMe:11 - fatal message- 6
+21:27:48,933 ERROR LogMe:12 - error message -5
+21:27:48,933  WARN LogMe:13 - warn message -4
+21:27:48,934  INFO LogMe:14 - info message - 3
+21:27:48,934 DEBUG LogMe:15 - debug message - 2
+21:28:16,786 FATAL LogMe:11 - fatal message- 6
+21:28:16,790 ERROR LogMe:12 - error message -5
+21:28:16,790  WARN LogMe:13 - warn message -4
+21:28:16,790  INFO LogMe:14 - info message - 3
+21:28:16,790 DEBUG LogMe:15 - debug message - 2
+21:28:31,207 FATAL LogMe:11 - fatal message- 6
+21:28:31,210 ERROR LogMe:12 - error message -5
+21:28:31,210  WARN LogMe:13 - warn message -4
+21:28:31,210  INFO LogMe:14 - info message - 3
+21:28:31,211 DEBUG LogMe:15 - debug message - 2
+21:28:37,825 FATAL LogMe:11 - fatal message- 6
+21:28:37,827 ERROR LogMe:12 - error message -5
+21:28:37,827  WARN LogMe:13 - warn message -4
+21:28:37,827  INFO LogMe:14 - info message - 3
+21:28:37,827 DEBUG LogMe:15 - debug message - 2
+21:37:16,295 DEBUG SimpleLog4jExWithoutLog4jFile:14 - This is basic configurator debug message with slf4j & log4j xml file
